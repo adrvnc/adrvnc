@@ -49,5 +49,10 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [React Crash Course: Understanding State Management and Hooks](https://dev.to/adrvnc/react-crash-course-understanding-state-management-and-hooks-1n2b)
+- [The Importance of Server-Side Handling: Safeguarding Sensitive Information in Web Applications](https://dev.to/adrvnc/the-importance-of-server-side-handling-safeguarding-sensitive-information-in-web-applications-3m01)
+- [Deploying Code Safely: Protecting Sensitive Data in Your Projects](https://dev.to/adrvnc/deploying-code-safely-protecting-sensitive-data-in-your-projects-3009)
+- [Quick Guide: Accessing a Specific Database in PostgreSQL](https://dev.to/adrvnc/quick-guide-accessing-a-specific-database-in-postgresql-faj)
+- [How To Create a Database in PostgreSQL using Git Bash](https://dev.to/adrvnc/how-to-create-a-database-in-postgresql-using-git-bash-4p2c)
 <!-- BLOG-POST-LIST:END -->
 
