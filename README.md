@@ -27,7 +27,7 @@
 
   ### :woman_technologist: About Me :
 
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full-Stack Developer
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Developer with experience creating full-stack web applications, landing pages, and email templates. 
 
 ---
 
