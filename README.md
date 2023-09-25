@@ -14,8 +14,7 @@
     </a>
   </div>
   <h1>
-    Hello world, my name is Adrian
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello world, my name is Adrian 👋🏾
   </h1>
 </div>
 
