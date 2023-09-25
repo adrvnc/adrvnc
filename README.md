@@ -14,7 +14,7 @@
     </a>
   </div>
   <h1>
-    Hello world, my name is Adrian 👋🏾
+    Hello world, my name is Adrian 👋🏽
   </h1>
 </div>
 
