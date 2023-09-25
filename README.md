@@ -24,7 +24,7 @@
 
   ---
 
-  ### :man_technologist: About Me :
+  ### 👨🏽‍💻 About Me :
 
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Experienced creating full-stack web applications, landing pages, and email templates.
 - :computer: Contributed to blog posts centered on the tech industry and various web development concepts. 
@@ -45,7 +45,7 @@
 
 --- 
 
-### :writing_hand: Blog Posts :
+### ✍🏽 Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing UI: Understanding Media Queries and Design Approaches](https://dev.to/adrvnc/optimizing-ui-understanding-media-queries-and-design-approaches-f1i)
