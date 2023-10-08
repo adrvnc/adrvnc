@@ -48,10 +48,10 @@
 ### ✍🏽 Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a Development Environment: A Guide for New Web Developers](https://dev.to/adrvnc/setting-up-a-development-environment-a-guide-for-new-web-developers-bl0)
 - [Optimizing User Interface: Understanding Media Queries and Design Approaches](https://dev.to/adrvnc/optimizing-ui-understanding-media-queries-and-design-approaches-f1i)
 - [React Crash Course: Understanding State Management and Hooks](https://dev.to/adrvnc/react-crash-course-understanding-state-management-and-hooks-1n2b)
 - [The Importance of Server-Side Handling: Safeguarding Sensitive Information in Web Applications](https://dev.to/adrvnc/the-importance-of-server-side-handling-safeguarding-sensitive-information-in-web-applications-3m01)
 - [Deploying Code Safely: Protecting Sensitive Data in Your Projects](https://dev.to/adrvnc/deploying-code-safely-protecting-sensitive-data-in-your-projects-3009)
-- [Quick Guide: Accessing a Specific Database in PostgreSQL](https://dev.to/adrvnc/quick-guide-accessing-a-specific-database-in-postgresql-faj)
 <!-- BLOG-POST-LIST:END -->
 
